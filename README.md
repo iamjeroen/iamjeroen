@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi. I'm Jeroen 👋
+
+🔭 I'm a data engineer with experience in financial services. Keen eye for regulatory requirements, security, front- and back office processes, enterprise architecture and user experience.
+
+🌱 Specific fields of interest currently are cloud native development and serverless architecture.
+
+⚡ Off work you can find me exploring the world, learning languages, enjoying good food and on the lookout for a good espresso. 
 
 <!--
 **iamjeroen/iamjeroen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
