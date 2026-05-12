@@ -2,8 +2,6 @@
 
 🔭 I'm a data engineer with experience in financial services. Keen eye for regulatory requirements, security, front- and back office processes, enterprise architecture and user experience.
 
-🌱 Specific fields of interest currently are low/no code development and serverless architecture.
-
 ⚡ Off work you can find me exploring the world, learning languages, enjoying good food and on the lookout for a good espresso. 
 
 <!--
